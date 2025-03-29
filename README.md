@@ -1,5 +1,7 @@
 Health Tech Project One: Brand vs. Generic
+
 Overview
+
 This project helps users identify the generic names of their medications. It is designed for health professionals to learn both brand and generic names, and for patients to advocate for more affordable prescriptions by recognizing generic alternatives.
 
 How It Works
