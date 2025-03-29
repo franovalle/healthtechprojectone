@@ -13,6 +13,7 @@ let meds = document.querySelector('input').value
             document.querySelector('h2').innerText = data.results[0].brand_name
             document.querySelector('h3').innerText = data.results[0].generic_name
            //document.querySelector('h4').innerText = data.results[0].openfda.pharm_class_moa
+           //document.getElementById("my-form").reset();
 
         })
         .catch(err => {
